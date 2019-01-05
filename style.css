@@ -1,0 +1,39 @@
+body{
+    font-family: 'Overpass', sans-serif;
+}
+.nav, .text {
+    font-family: 'Overpass', sans-serif;
+
+}
+
+.navbar-font{
+    font-size: 1.4em;
+}
+
+.nav-link {
+    color: inherit;
+    color: #404040;
+}
+
+.text-active {
+    color: inherit;
+}
+
+ul.nav a:hover{
+    color: #666362;
+}
+
+.img-mid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-distance, .img-distance2 {
+    margin-bottom: 2%;
+    padding: 10px
+}
+
+.image {
+    margin-top: 70px;
+}
