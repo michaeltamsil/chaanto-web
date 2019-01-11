@@ -52,6 +52,7 @@ ul.nav a:hover{
     background: white;
 }
 
+/*
 .bg-website {
     background-image: url(./donlot/496171-pink_hair-anime_girls-katana-sword-yellow_eyes-snow-748x421.jpg);
     background-repeat: no-repeat;
@@ -60,9 +61,51 @@ ul.nav a:hover{
     height: 100%;
     background-size: 100%;
 }
-
+*/
 .wrapper {
     width: 900px;
     margin: auto;
     position: relative;
+}
+
+.flickity-style {
+    height: 226px;
+}
+
+.inspiration {
+    position: relative;
+    overflow: hidden;
+}
+
+.inspiration, .ins-img {
+    margin-bottom: 1.85714286em;
+}
+
+.rounded-circle {
+   width: 160px;
+   height: 160px;
+}
+
+section, .space--sm {
+    padding-top: 4.95238095em;
+    padding-bottom: 4.95238095em;
+}
+
+.bg--secondary {
+    background: #fafafa;
+    border-top: 1px solid hidden #ebebeb;
+
+}
+
+ul {
+    list-style: none;
+    line-height: 1.85714286em
+}
+
+.h3 {
+    margin-bottom: 1.04em;
+    font-size: 1.78571429em;
+    line-height: 1.5em;
+    display: block;
+
 }
