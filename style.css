@@ -29,6 +29,11 @@ ul.nav a:hover{
     align-items: center;
 }
 
+.img-gal-size {
+    width: 300px;
+    height: 250px;
+}
+
 .img-distance, .img-distance2 {
     margin-bottom: 2%;
     padding: 10px
