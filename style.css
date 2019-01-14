@@ -41,7 +41,7 @@ ul.nav a:hover{
     height: 250px;
 }
 
-.img-distance, .img-distance2, {
+.img-distance, .img-distance2 {
     margin-bottom: 2%;
     padding: 10px
 }
@@ -79,15 +79,7 @@ ul.nav a:hover{
     background-size: 100%;
 }
 */
-.wrapper {
-    width: 900px;
-    margin: auto;
-    position: relative;
-}
 
-.flickity-style {
-    height: 226px;
-}
 
 .inspiration {
     position: relative;
