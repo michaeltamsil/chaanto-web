@@ -102,3 +102,11 @@ section, .space--sm {
     font-size: 1.35714286em;
     line-height: 1.68421053em;
 }
+
+.h3 {
+    margin-bottom: 1.04em;
+}
+
+span > .h3 {
+    display: block;
+}
